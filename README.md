@@ -1,7 +1,8 @@
-# Challenge-5
+# Financial Health 
 
 ------------------
 
+ Throughout the course of this project we use a financial analysis tool to gather the data of union members' stocks, cryptocurrency and bonds holdings. We then take this information to allow union members to see and evaluate their future savings and what their outcomes in 10 and 30 years. This will ultimatly allow for the members to dictate whether or not they will be able to safelty retire after a given amount of time has passed.
 ------------------
 
 ## Technologies
